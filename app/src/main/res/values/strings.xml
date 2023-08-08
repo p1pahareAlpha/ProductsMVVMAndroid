@@ -7,7 +7,5 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
     <string name="product_listing">Product Listing</string>
-    <string name="price"> ₹ %1$s!</string>
-    <string name="two_placeholder">%1$s! %2$s!</string>
 
 </resources>
