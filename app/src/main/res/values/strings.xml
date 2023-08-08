@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="product_details">Product Details</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="product_listing">Product Listing</string>
+    <string name="price"> ₹ %1$s!</string>
+    <string name="two_placeholder">%1$s! %2$s!</string>
+
+</resources>
